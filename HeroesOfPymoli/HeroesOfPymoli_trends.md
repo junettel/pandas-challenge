@@ -8,7 +8,7 @@ Must include a written description of three observable trends based on the data.
 
 ## Gender Trend
 - Males make up 84% of players but also have the lowest average purchase price and average purchase price per person. 
-- Females and other/non-disclosed genered players, combined making up 16% of players, both have higher average purchase price and average purchase prices per person. 
+- Females and other/non-disclosed genered players, together making up 16% of players, both have higher average purchase prices and average purchase prices per person than males. 
 - This tells us that game marketing may be geared more towards the male demographic. 
 - Females and other/non-disclosed gendered players are willing to spend more on average when they do make game related purchases resulting in a higher one-time spend rather than multiple lower spends.
 
