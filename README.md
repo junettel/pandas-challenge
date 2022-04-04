@@ -1,5 +1,5 @@
 # pandas-challenge
-Pandas Homework - Pandas, Pandas, Pandas
+Pandas, Pandas, Pandas
 
 ## Heroes of Pymoli
 
